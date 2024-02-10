@@ -12,18 +12,6 @@
                 "emp_id": "101",
                 "title": "Software developer",
                 "department": "Digital"
-            },
-            {
-                "name": "",
-                "emp_id": "109",
-                "title": "abcd",
-                "department": "Digital"
-            },
-            {
-                "name": "",
-                "emp_id": "1000",
-                "title": "tester",
-                "department": "Digital"
             }
         ],
         "Interior": [
