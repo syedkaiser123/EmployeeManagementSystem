@@ -1,0 +1,60 @@
+{
+    "departments": {
+        "Digital": [
+            {
+                "name": "Tawseef",
+                "emp_id": "100",
+                "title": "Sr Data Engineer",
+                "department": "Digital"
+            },
+            {
+                "name": "Kaiser",
+                "emp_id": "101",
+                "title": "Software developer",
+                "department": "Digital"
+            },
+            {
+                "name": "",
+                "emp_id": "109",
+                "title": "abcd",
+                "department": "Digital"
+            },
+            {
+                "name": "",
+                "emp_id": "1000",
+                "title": "tester",
+                "department": "Digital"
+            }
+        ],
+        "Interior": [
+            {
+                "name": "Saqib",
+                "emp_id": "103",
+                "title": "Interior designer",
+                "department": "Interior"
+            }
+        ],
+        "Civil": [
+            {
+                "name": "Asif",
+                "emp_id": "104",
+                "title": "executive engineer",
+                "department": "Civil"
+            }
+        ],
+        "Healthcare": [
+            {
+                "name": "Chaithra",
+                "emp_id": "105",
+                "title": "Tester",
+                "department": "Healthcare"
+            },
+            {
+                "name": "Rodshi",
+                "emp_id": "106",
+                "title": "Analyst",
+                "department": "Healthcare"
+            }
+        ]
+    }
+}
